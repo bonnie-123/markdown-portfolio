@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[picture of cat] https://www.pexels.com/photo/adorable-animal-blur-cat-617278/
