@@ -1,1 +1,1 @@
-(![picture of cat] ((https://www.pexels.com/photo/adorable-animal-blur-cat-617278/))
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
